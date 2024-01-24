@@ -1,5 +1,6 @@
 import sun from './../../img/icons/sun.svg'
 import moon from './../../img/icons/moon.svg'
+import './Navbar.css'
 
 export default function Navbar() {
     return (
