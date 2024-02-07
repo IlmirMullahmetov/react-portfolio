@@ -7,7 +7,7 @@ export default function Contacts () {
                 <ul className="content-list">
                     <li className="content-list__item">
                         <h2 className="title-2">Location</h2>
-                        <p>Moscow, Russia</p>
+                        <p>Izhevsk, Russia</p>
                     </li>
                     <li className="content-list__item">
                         <h2 className="title-2">Telegram / WhatsApp</h2>
@@ -15,7 +15,7 @@ export default function Contacts () {
                     </li>
                     <li className="content-list__item">
                         <h2 className="title-2">Email</h2>
-                        <p><a href="mailto:webdev@protonmail.com">webdev@protonmail.com</a></p>
+                        <p><a href="mailto:tex-hon@mail.ru">tex-hon@mail.ru</a></p>
                     </li>
                 </ul>
 

@@ -14,6 +14,7 @@ import gamingCommunityFull from '../img/projects/06-big.jpg'
 
 const projects = [
     {
+        id:0,
         title:'Gaming streaming portal',
         skills: 'React, Node.js, MongoDB',
         img: gamingStreamingPortal,
@@ -22,6 +23,7 @@ const projects = [
 
     },
     {
+        id:1,
         title:'Video service',
         skills: 'React, PHP, MySql',
         img: videoService,
@@ -30,6 +32,7 @@ const projects = [
 
     },
     {
+        id:2,
         title:'Video portal',
         skills: 'Vue JS, Node.js, PHP',
         img: videoPortal,
@@ -38,6 +41,7 @@ const projects = [
 
     },
     {
+        id:3,
         title:'Datting app',
         skills: 'React Native',
         img: datingApp,
@@ -45,6 +49,7 @@ const projects = [
 
     },
     {
+        id:4,
         title:'Landing',
         skills: 'HTML, CSS, JS',
         img: landing,
@@ -52,6 +57,7 @@ const projects = [
 
     },
     {
+        id:5,
         title:'Gaming community',
         skills: 'React, PHP, MySql',
         img: gamingCommunity,

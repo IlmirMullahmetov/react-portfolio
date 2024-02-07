@@ -16,9 +16,11 @@ export default function Projects () {
 
                 {projects.map((project) => {
                     return (
-                        <ProjectBlock 
+                        <ProjectBlock
+                        key={project.id}
                         title={project.title}
                         img={project.img}
+                        id={project.id}
 
                         /> 
                     )
